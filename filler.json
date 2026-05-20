@@ -14,5 +14,36 @@
     "cost": "From £45",
     "time": "",
     "standFirstCopy": "Enjoy unlimited exhibitions, exclusive spaces and rewarding benefits – all with a Membership to suit you."
+  },
+  {
+    "image": "./assets/images/filler_membership_1680x1260.jpg",
+    "title": "Test 1",
+    "location": "Talk to our staff to find out more",
+    "cost": "From £45",
+    "time": "",
+    "standFirstCopy": "Enjoy unlimited exhibitions, exclusive spaces and rewarding benefits – all with a Membership to suit you."
+  },
+  {
+    "image": "./assets/images/filler_membership_1680x1260.jpg",
+    "title": "Test 2",
+    "location": "Talk to our staff to find out more",
+    "cost": "From £45",
+    "time": "",
+    "standFirstCopy": "Enjoy unlimited exhibitions, exclusive spaces and rewarding benefits – all with a Membership to suit you."
+  },
+  {
+    "image": "./assets/images/filler_membership_1680x1260.jpg",
+    "title": "Test 3",
+    "location": "Talk to our staff to find out more",
+    "cost": "From £45",
+    "time": "",
+    "standFirstCopy": "Enjoy unlimited exhibitions, exclusive spaces and rewarding benefits – all with a Membership to suit you."
+  }, {
+    "image": "./assets/images/filler_membership_1680x1260.jpg",
+    "title": "Test 4",
+    "location": "Talk to our staff to find out more",
+    "cost": "From £45",
+    "time": "",
+    "standFirstCopy": "Enjoy unlimited exhibitions, exclusive spaces and rewarding benefits – all with a Membership to suit you."
   }
 ]
